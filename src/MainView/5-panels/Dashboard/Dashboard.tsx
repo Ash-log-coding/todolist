@@ -1,9 +1,9 @@
 //********** Imports **********//
 import { Box, CssBaseline } from "@mui/material";
-import { useState } from "react";
 import AppBar from "../../4-templates/AppBar/AppBar";
-import DashboardContent from "../../4-templates/DashboardContent";
+import { useState } from "react";
 import LeftMenu from "../../4-templates/LeftMenu";
+import DashboardContent from "../../4-templates/DashboardContent";
 
 //********** Component **********//
 export const Dashboard = () => {
