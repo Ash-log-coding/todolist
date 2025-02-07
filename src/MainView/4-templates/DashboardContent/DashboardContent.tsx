@@ -1,7 +1,7 @@
 //********** Imports **********//
 import { Box, Toolbar } from "@mui/material";
-import { DashboardContentProps } from "./DashboardContent.types";
 import AddForm from "../../../AddTODO/4-template/AddForm";
+import { DashboardContentProps } from "./DashboardContent.types";
 
 //********** Component **********//
 const DashboardContent = (props: DashboardContentProps) => {
